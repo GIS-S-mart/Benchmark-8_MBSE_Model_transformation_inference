@@ -28,6 +28,24 @@ A common framework of understanding is needed to facilitate the comparison of ap
 
 Thanks to the characterization, two transformation models that share the same features regardless of the domain-specific metamodel are considered equivalent and can be compared in a benchmark study. A deeper understanding of the conflicts or "mismatches" to be resolved, which are caused by the heterogeneity of the metamodels is need to identify structural and terminological features.
 
+### Structural features
+
+<img src="images/Structural features.png" alt="structural_features" title="Structural features" style="width: 70%; height: auto;">
+
+**Table 1: Structural features**
+
+Some transformation patterns may be subject to conditions that can guide the transformation of a element or a group of elements. The transformation is thus based on the so-called concept-specific features. Three types of conditions have been identified: conditions for references, attributes and neighboring classes
+
+<img src="images/Transformation conditions.png" alt="transformation_conditions" title="Transformation conditions" style="width: 70%; height: auto;">
+
+**Table 2: Transformation conditions**
+
+### Terminological features
+
+<img src="images/Terminological features.png" alt="terminological_features" title="Terminological features" style="width: 50%; height: auto;">
+
+**Table 3: Terminological features**
+
 ## Performances measurement
 
 Performance criteria were established to measure the ability of the approaches to solve specific types of transformation patterns. The following performance criteria were used during the learning phase:
@@ -267,3 +285,11 @@ For each indicator, a "?" symbol means that the value could not be determined.
 [9] L. Burgueno, J. Cabot, S. Li, and S. Gérard. A generic lstm neural network architecture to infer heterogeneous model transformations. *Software and Systems Modeling*, 2022. Github : https://github.com/modelia/ai-for-model-manipulation
 
 [10] Q. Brilhault, E. Yahia, L. Roucoules. La continuité numérique basée sur l'apprentissage de modèles de transformation: une approche d'interopérabilité dirigée par les modèles. Manuscrit de thèse, 2023. https://pastel.hal.science/tel-04511226
+
+## Contributors 
+
+**Quentin Brilhault**, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
+
+**Esma Yahia**, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
+
+**Lionel Roucoules**, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
