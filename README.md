@@ -201,7 +201,7 @@ The datasets used to compare the approaches is the transformation *Class2Relatio
             <th align="center">GA [5]</th>
             <th align="center">M<sub>s</sub> + M<sub>t</sub></th>
             <th align="center">?</th>
-            <th align="center">0.75</th>
+            <th align="center">1.0</th>
             <th align="center">?</th>
             <th align="center">?</th>
             <th align="center">?</th>
