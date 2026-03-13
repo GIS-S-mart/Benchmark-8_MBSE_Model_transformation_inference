@@ -276,7 +276,7 @@ For each indicator, a "?" symbol means that the value could not be determined.
 
 [5] M. Faunes, H. Sahraoui, and M. Boukadoum. Generating model transformation rules from examples using an evolutionary algorithm. *27th IEEE/ACM International Conference on Automated Software Engineering*, pages 250–253, 2012.
 
-[6] M. Faunes, H. Sahraoui, and M. Boukadoum. Genetic-programming approach to learn model transformation rules from examples. *6th International Conference, ICMT 2013*, Budapest, Hungary, pages 17–32, 2013.
+[6] M. Faunes, H. Sahraoui, and M. Boukadoum. Genetic-Programming Approach to Learn Model Transformation Rules from Examples. *6th International Conference, ICMT 2013*, Budapest, Hungary, pages 17–32, 2013.
 
 [7] M. Kessentini, H. Sahraoui, M. Boukadoum, and O. B. Omar. Search-based model transformation by example. *Software & Systems Modeling*, 2012.
 
